@@ -21,8 +21,3 @@ If you're interested in pairing up, have questions, or want to chat about the la
 - **Portfolio**: [jakeservin.dev](https://www.jakeservin.dev)
 - **LinkedIn**: [Connect with me](https://www.linkedin.com/in/jakeservin)
 - **Email**: [jakeservin@gmail.com](mailto:jakeservin@gmail.com)
-
-Thanks for dropping by, and happy coding!
-
-Jake
-
